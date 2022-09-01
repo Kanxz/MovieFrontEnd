@@ -133,7 +133,7 @@ export default {
       length: [
         {
           required: true,
-          message: "请输入片长",
+          message: "请输入影视片长",
           trigger: "blur",
         },
         {
